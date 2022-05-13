@@ -45,7 +45,7 @@ function sig_line(xs,lbl,h,yv)
 %
 % EDITS
 %   4/27/22 HJ
-%       *Made sigline less bold, ensured sig dot was also LineWidth 0.5 
+%       Made sigline less bold, ensured sig dot was also LineWidth 0.5 
 %       Clarified lbl plot comment
 %       Changed so that will not plot a * if the lbl is "n.s" or equivalent.
 %           But will plot a white(invis) * in this case so that the axes update correctly.
